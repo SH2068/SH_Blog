@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SH2068/SH-blog/static/css/main.bd09c1e4.css",
+    "main.js": "/SH2068/SH-blog/static/js/main.ca297c24.js",
+    "index.html": "/SH2068/SH-blog/index.html",
+    "main.bd09c1e4.css.map": "/SH2068/SH-blog/static/css/main.bd09c1e4.css.map",
+    "main.ca297c24.js.map": "/SH2068/SH-blog/static/js/main.ca297c24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd09c1e4.css",
+    "static/js/main.ca297c24.js"
+  ]
+}
