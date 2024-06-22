@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/SH_Blog/static/css/main.bda31f5e.css",
-    "main.js": "/SH_Blog/static/js/main.776c9d04.js",
+    "main.css": "/SH_Blog/static/css/main.64372f98.css",
+    "main.js": "/SH_Blog/static/js/main.cd95d292.js",
+    "static/media/milky-way-559641_1920.jpg": "/SH_Blog/static/media/milky-way-559641_1920.9ff8a906ce076df6cf65.jpg",
     "static/media/jeju.jpg": "/SH_Blog/static/media/jeju.96d07aeaad4c5d50bfc9.jpg",
     "static/media/tree-7739243_1280.jpg": "/SH_Blog/static/media/tree-7739243_1280.ae0693d1e6748c6341d7.jpg",
     "static/media/camera-1130731_1280.jpg": "/SH_Blog/static/media/camera-1130731_1280.7e98ac8b0cb7a1fd6a2e.jpg",
-    "static/media/leaves-8704937_1280.png": "/SH_Blog/static/media/leaves-8704937_1280.28cd127a013b13be6969.png",
     "index.html": "/SH_Blog/index.html",
-    "main.bda31f5e.css.map": "/SH_Blog/static/css/main.bda31f5e.css.map",
-    "main.776c9d04.js.map": "/SH_Blog/static/js/main.776c9d04.js.map"
+    "main.64372f98.css.map": "/SH_Blog/static/css/main.64372f98.css.map",
+    "main.cd95d292.js.map": "/SH_Blog/static/js/main.cd95d292.js.map"
   },
   "entrypoints": [
-    "static/css/main.bda31f5e.css",
-    "static/js/main.776c9d04.js"
+    "static/css/main.64372f98.css",
+    "static/js/main.cd95d292.js"
   ]
 }
